@@ -57,5 +57,6 @@
     "uuid": "catalog:",
     "xml2js": "catalog:",
     "zod": "catalog:"
+    "web3": "^4.12.1",
   }
 }
